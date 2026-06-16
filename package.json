@@ -1,0 +1,15 @@
+{
+  "name": "caveswap",
+  "version": "1.0.0",
+  "description": "Single-file front-end for the CaveSwap DEX on Oggchain, styled to the Figma mockup (River Adventurer font, cave background, Swap / Bridge / Tokens).",
+  "main": "price-recorder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.8.0"
+  }
+}
